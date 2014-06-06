@@ -1,0 +1,24 @@
+{
+  "name": "bfi",
+  "version": "0.1.0",
+  "description": "fun little library for playing with big fun integers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/dtudury/bfi.git"
+  },
+  "keywords": [
+    "big",
+    "integer",
+    "crypto"
+  ],
+  "author": "dtudury",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dtudury/bfi/issues"
+  },
+  "homepage": "https://github.com/dtudury/bfi"
+}
